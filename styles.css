@@ -1,26 +1,28 @@
 img {
-    width: 750px;
-    margin: auto;
-    position: relative;
-    display: flex;
-    justify-content: center;
+  width: 750px;
+  margin: auto;
+  position: relative;
+  display: flex;
+  justify-content: center;
 }
 
-p, div {
-    text-align: center;
-
+p,
+div {
+  text-align: center;
 }
 
-ul, ol{
-    display: inline-block;
-    text-align: left;
+ul,
+ol {
+  display: inline-block;
+  text-align: left;
 }
 
-h1, h2 {
-    text-align: center;
-    color: rgb(68, 66, 65);
+h1,
+h2 {
+  text-align: center;
+  color: rgb(68, 66, 65);
 }
 
 body {
-    background-color: rgb(212, 220, 233);
+  background-color: rgb(212, 220, 233);
 }
